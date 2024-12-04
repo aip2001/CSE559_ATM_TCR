@@ -1,0 +1,12 @@
+[INDEP] {} ----------------
+19529 21349 9934 30944
+accuracy   0.6174
+auc        0.7042
+f1macro    0.6098
+f1micro    0.6174
+loss       188585.3041
+precision0 0.6628
+precision1 0.5917
+recall0    0.4777
+recall1    0.7570
+

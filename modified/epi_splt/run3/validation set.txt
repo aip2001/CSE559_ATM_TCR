@@ -1,0 +1,9 @@
+accuracy   0.6935
+auc        0.8298
+f1macro    0.6819
+f1micro    0.6935
+loss       82578.2564
+precision0 0.8138
+precision1 0.6399
+recall0    0.5019
+recall1    0.8852
